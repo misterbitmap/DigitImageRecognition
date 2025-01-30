@@ -44,7 +44,7 @@ bias2 = np.zeros((1, output_size))
 
 # Training parameters
 learning_rate = 0.001
-epochs = 3
+epochs = 300
 batch_size = 32
 
 for epoch in range(epochs):
